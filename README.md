@@ -1,4 +1,5 @@
 # 📊 E-commerce Customer Segmentation & Analytics
+🚀 **Check out the Live Dashboard:** [Click Here](https://e-commerce-segmentation-6zsztz6gesr7kbsrhyl2hn.streamlit.app/)
 
 ## 🎯 Project Overview
 In this project, I analyzed over **500,000 transactions** from a UK-based retail dataset. I performed **RFM Analysis** and used **K-Means Clustering** to segment customers into distinct groups to help the business target them effectively.
